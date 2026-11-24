@@ -1,0 +1,5 @@
+model,engine,engine_version,weight_quantization,kv_quantization,gpu_count,parallelism,streams_total,streams_per_instance,context_limit_tokens,prompt_type,reasoning,temperature,source_date,conditions,power_cap_per_gpu_w,aggregate_output_tokens_per_s
+Qwen3.8 27B,HyperQwen,3d6c9543292e; vLLM 0.33.0,W4A16,,2,TP=2; DFlash2,1,1,131072,code,off,0.6,2026-11-19,aggregate output rate as reported; per-request rates omitted; optimistic for prose,290,180
+Qwen3.8 27B,HyperQwen,3d6c9543292e; vLLM 0.33.0,W4A16,,2,TP=2; DFlash2,2,2,131072,code,off,0.6,2026-11-19,aggregate output rate as reported; per-request rates omitted; optimistic for prose,290,297
+Qwen3.8 27B,HyperQwen,3d6c9543292e; vLLM 0.33.0,W4A16,,2,TP=2; DFlash2,4,4,131072,code,off,0.6,2026-11-19,aggregate output rate as reported; per-request rates omitted; optimistic for prose,290,431
+Qwen3.8 27B,HyperQwen,3d6c9543292e; vLLM 0.33.0,W4A16,,2,TP=2; DFlash2,8,8,131072,code,off,0.6,2026-11-19,aggregate output rate as reported; per-request rates omitted; optimistic for prose,290,521
