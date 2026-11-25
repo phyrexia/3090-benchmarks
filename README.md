@@ -1,6 +1,6 @@
 # RTX 3090 inference benchmarks
 
-Measured inference results from a home node with **two used RTX 3090s**, November 2026. These are observations from this machine, with the conditions below, rather than a general ranking of models or GPUs.
+Measured inference results from a home node with **two RTX 3090s**, November 2026. These are observations from this machine, with the conditions below, rather than a general ranking of models or GPUs.
 
 Charts are in [the author’s posts](https://x.com/phyrexia) and the measurements are in the [CSVs](data/).
 
